@@ -1,0 +1,6 @@
+subdir('actions')
+subdir('builtin')
+subdir('dark-theme')
+subdir('gnome')
+subdir('indicator')
+subdir('sounds')
